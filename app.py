@@ -9,7 +9,7 @@ from datetime import datetime
 
 # load data
 
-df = pd.read_csv("/content/clients.csv")
+df = pd.read_csv("clients.csv")
 
 df.head()
 
