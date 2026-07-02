@@ -78,7 +78,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # Load dataset
 
-df = pd.read_csv("/content/clients.csv")
+df = pd.read_csv("clients.csv")
 
 # Label Encoding
 
