@@ -5,3 +5,4 @@ plotly
 matplotlib
 networkx
 scipy
+seaborn 
